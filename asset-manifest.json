@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/travelsite/static/css/main.aa0c46a8.chunk.css",
+    "main.js": "/travelsite/static/js/main.b6ddf666.chunk.js",
+    "main.js.map": "/travelsite/static/js/main.b6ddf666.chunk.js.map",
+    "runtime-main.js": "/travelsite/static/js/runtime-main.88a83bd5.js",
+    "runtime-main.js.map": "/travelsite/static/js/runtime-main.88a83bd5.js.map",
+    "static/css/2.f30b721a.chunk.css": "/travelsite/static/css/2.f30b721a.chunk.css",
+    "static/js/2.40692cc5.chunk.js": "/travelsite/static/js/2.40692cc5.chunk.js",
+    "static/js/2.40692cc5.chunk.js.map": "/travelsite/static/js/2.40692cc5.chunk.js.map",
+    "static/js/3.18900638.chunk.js": "/travelsite/static/js/3.18900638.chunk.js",
+    "static/js/3.18900638.chunk.js.map": "/travelsite/static/js/3.18900638.chunk.js.map",
+    "index.html": "/travelsite/index.html",
+    "static/css/2.f30b721a.chunk.css.map": "/travelsite/static/css/2.f30b721a.chunk.css.map",
+    "static/css/main.aa0c46a8.chunk.css.map": "/travelsite/static/css/main.aa0c46a8.chunk.css.map",
+    "static/js/2.40692cc5.chunk.js.LICENSE.txt": "/travelsite/static/js/2.40692cc5.chunk.js.LICENSE.txt",
+    "static/media/bali-temple.754b032d.jpg": "/travelsite/static/media/bali-temple.754b032d.jpg",
+    "static/media/exotic-bromo.1f62c8bd.jpg": "/travelsite/static/media/exotic-bromo.1f62c8bd.jpg",
+    "static/media/ice-tea.d29a7731.jpg": "/travelsite/static/media/ice-tea.d29a7731.jpg",
+    "static/media/indonesia-high-res.cc6b0247.jpg": "/travelsite/static/media/indonesia-high-res.cc6b0247.jpg",
+    "static/media/male-maldives.612a428c.jpg": "/travelsite/static/media/male-maldives.612a428c.jpg",
+    "static/media/rice-terrace.8911349e.jpg": "/travelsite/static/media/rice-terrace.8911349e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88a83bd5.js",
+    "static/css/2.f30b721a.chunk.css",
+    "static/js/2.40692cc5.chunk.js",
+    "static/css/main.aa0c46a8.chunk.css",
+    "static/js/main.b6ddf666.chunk.js"
+  ]
+}
